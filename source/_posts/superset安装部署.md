@@ -1,7 +1,12 @@
 ---
+title: superset安装部署
 categories: []
-abbrlink: 0
+tags:
+  - superset
+abbrlink: 49558
+date: 2022-10-03 22:23:33
 ---
+
 # 准备环境
 
 安装python3.9+

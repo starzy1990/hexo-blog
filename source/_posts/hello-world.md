@@ -10,7 +10,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### Create a new post
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new post -p docker/Docker版本与安装介绍
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
